@@ -1,2 +1,2 @@
-# IBI1_2018-19
-GitHub repository for IBI1 2018/19 at ZJU/UoE
+# Welcome
+My name is Nora. I am a freshman student at the University of Edinburgh - Zhejiang University Institute. My major is Biomedical Informatics. I come from ShanDong Province, which is in the north of China. I enjoy a lot in my university life.
